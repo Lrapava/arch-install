@@ -21,7 +21,7 @@ hwclock --systohc
 micro /etc/locale.gen
 locale-gen
 micro /etc/locale.conf
-mciro /etc/hostname
+micro /etc/hostname
 passwd
 pacman -S grub
 exit
